@@ -25910,12 +25910,6 @@
       "Wind1808"
     ]
   },
-  "Web/API/XRReferenceSpaceType": {
-    "modified": "2020-12-09T00:45:16.481Z",
-    "contributors": [
-      "Wind1808"
-    ]
-  },
   "Web/API/XRRigidTransform": {
     "modified": "2020-12-09T01:29:36.634Z",
     "contributors": [
@@ -51805,6 +51799,12 @@
     "modified": "2020-07-29T10:05:34.264Z",
     "contributors": [
       "eltociear"
+    ]
+  },
+  "orphaned/Web/API/XRReferenceSpaceType": {
+    "modified": "2020-12-09T00:45:16.481Z",
+    "contributors": [
+      "Wind1808"
     ]
   },
   "orphaned/Web/API/XRSessionMode": {
