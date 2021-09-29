@@ -11479,12 +11479,6 @@
       "olehrgf"
     ]
   },
-  "Web/API/Window/performance": {
-    "modified": "2019-03-18T21:36:16.802Z",
-    "contributors": [
-      "Demjan"
-    ]
-  },
   "Web/API/Window/popstate_event": {
     "modified": "2019-04-26T08:34:41.629Z",
     "contributors": [
@@ -12007,6 +12001,12 @@
       "102",
       "teoli",
       "fsanano"
+    ]
+  },
+  "Web/API/performance_property": {
+    "modified": "2019-03-18T21:36:16.802Z",
+    "contributors": [
+      "Demjan"
     ]
   },
   "Web/API/setInterval": {
