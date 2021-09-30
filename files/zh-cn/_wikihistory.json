@@ -7660,6 +7660,14 @@
       "Geolage"
     ]
   },
+  "Web/API/Animation/startTime": {
+    "modified": "2019-03-23T23:39:18.582Z",
+    "contributors": [
+      "teoli",
+      "khalid32",
+      "ziyunfei"
+    ]
+  },
   "Web/API/AnimationEvent": {
     "modified": "2019-03-23T23:02:22.417Z",
     "contributors": [
@@ -23259,14 +23267,6 @@
       "teoli",
       "AshfaqHossain",
       "AlexChao",
-      "ziyunfei"
-    ]
-  },
-  "Web/API/Window/mozAnimationStartTIme": {
-    "modified": "2019-03-23T23:39:18.582Z",
-    "contributors": [
-      "teoli",
-      "khalid32",
       "ziyunfei"
     ]
   },

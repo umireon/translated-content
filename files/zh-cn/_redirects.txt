@@ -515,7 +515,7 @@
 /zh-CN/docs/DOM/window.location	/zh-CN/docs/Web/API/Window/location
 /zh-CN/docs/DOM/window.minimize	/zh-CN/docs/conflicting/Web/API/Window
 /zh-CN/docs/DOM/window.moveTo	/zh-CN/docs/Web/API/Window/moveTo
-/zh-CN/docs/DOM/window.mozAnimationStartTime	/zh-CN/docs/Web/API/Window/mozAnimationStartTIme
+/zh-CN/docs/DOM/window.mozAnimationStartTime	/zh-CN/docs/Web/API/Animation/startTime
 /zh-CN/docs/DOM/window.navigator	/zh-CN/docs/Web/API/Window/navigator
 /zh-CN/docs/DOM/window.navigator.appCodeName	/zh-CN/docs/orphaned/Web/API/NavigatorID/appCodeName
 /zh-CN/docs/DOM/window.navigator.appName	/zh-CN/docs/orphaned/Web/API/NavigatorID/appName
@@ -1904,7 +1904,7 @@
 /zh-CN/docs/Web/API/Window.minimize	/zh-CN/docs/conflicting/Web/API/Window
 /zh-CN/docs/Web/API/Window.moveBy	/zh-CN/docs/Web/API/Window/moveBy
 /zh-CN/docs/Web/API/Window.moveTo	/zh-CN/docs/Web/API/Window/moveTo
-/zh-CN/docs/Web/API/Window.mozAnimationStartTime	/zh-CN/docs/Web/API/Window/mozAnimationStartTIme
+/zh-CN/docs/Web/API/Window.mozAnimationStartTime	/zh-CN/docs/Web/API/Animation/startTime
 /zh-CN/docs/Web/API/Window.name	/zh-CN/docs/Web/API/Window/name
 /zh-CN/docs/Web/API/Window.navigator	/zh-CN/docs/Web/API/Window/navigator
 /zh-CN/docs/Web/API/Window.onbeforeunload	/zh-CN/docs/Web/API/WindowEventHandlers/onbeforeunload
@@ -1941,6 +1941,7 @@
 /zh-CN/docs/Web/API/Window/clearInterval	/zh-CN/docs/Web/API/clearInterval
 /zh-CN/docs/Web/API/Window/getAttention	/zh-CN/docs/orphaned/Web/API/Window/getAttention
 /zh-CN/docs/Web/API/Window/minimize	/zh-CN/docs/conflicting/Web/API/Window
+/zh-CN/docs/Web/API/Window/mozAnimationStartTIme	/zh-CN/docs/Web/API/Animation/startTime
 /zh-CN/docs/Web/API/Window/onbeforeunload	/zh-CN/docs/Web/API/WindowEventHandlers/onbeforeunload
 /zh-CN/docs/Web/API/Window/ondevicelight	/zh-CN/docs/orphaned/Web/API/Window/ondevicelight
 /zh-CN/docs/Web/API/Window/ondeviceproximity	/zh-CN/docs/orphaned/Web/API/Window/ondeviceproximity
